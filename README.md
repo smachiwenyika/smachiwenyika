@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smachiwenyika
 - 👀 I’m interested in Redhat Products
-- 🌱 I’m currently learning Ansible and Openshift
-- 💞️ I’m looking to collaborate on Ansible and Openshift
+- 🌱 I’m currently learning Kubernetes, Terraform, Jenkins, Git, Docker, Podman, Ansible and Openshift
+- 💞️ I’m looking to collaborate on the above an more
 - 📫 How to reach me mrsaitoo@gmail.com
 
 <!---
